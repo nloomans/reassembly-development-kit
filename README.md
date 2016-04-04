@@ -8,7 +8,7 @@ get the LTS version of [nodejs](nodejs.org)
 ## Installation
 
     # Clone the repository
-    $ git clone https://github.com/nloomans/assembly-development-kit.git
+    $ git clone https://github.com/nloomans/reassembly-development-kit.git
 
     # Go into the repository
     $ cd assembly-development-kit
