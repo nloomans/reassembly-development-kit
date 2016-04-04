@@ -11,7 +11,7 @@ get the LTS version of [nodejs](nodejs.org)
     $ git clone https://github.com/nloomans/reassembly-development-kit.git
 
     # Go into the repository
-    $ cd assembly-development-kit
+    $ cd reassembly-development-kit
 
     # Install the dependencies
     $ npm install
