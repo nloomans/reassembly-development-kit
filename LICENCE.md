@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2016 Noah Loomans
+This program is a offline copy of the Reassembly Web development kit.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
