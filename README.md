@@ -3,7 +3,7 @@
 Installers are comming soon, in the meanwhile, you can run it like this:
 
 ## Dependencies
-get the LTS version of [nodejs](nodejs.org)
+get the LTS version of [nodejs](https://nodejs.org/)
 
 ## Installation
 
